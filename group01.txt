@@ -1,0 +1,18 @@
+git
+===
+
+git rocks haard!
+
+Next steps
+==========
+
+ * find a typo in this file
+ * fix it
+ * save file
+ * tell git about the change: git add FILENAME
+ * commit the change: git commit -m "fixed typo in FILENAME"
+ * push the commit to github: git push
+ * go to https://github.com/andrenarchy/pull-request-please
+ * create a pull request for your change
+ * wait until pull request is reviewed and merged
+ * now you know how git works
