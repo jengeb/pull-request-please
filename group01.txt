@@ -1,7 +1,7 @@
 git
 ===
 
-git rocks haard!
+git rocks hard!
 
 Next steps
 ==========
